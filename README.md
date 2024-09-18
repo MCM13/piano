@@ -1,3 +1,20 @@
+# Aplicacion web de piano
+
+Web de practicas que permite tocar el piano con raton y teclado
+
+## tecnologias
+- npm
+- vite
+- vitest
+
+## dependencias
+- tonejs
+- gh pages
+  
+## deploy
+
+https://mcm13.github.io/piano/
+
 Descarga las dependencias del proyecto
 
 npm install
@@ -17,6 +34,10 @@ Deployar a github
 
 npm run deploy
 
+Lanzar los tests
+
+npm run test
+
 
 
 quiero una pagina web que permita tocar el piano.
@@ -29,9 +50,9 @@ Se podra tocar tambien con el teclado del ordenador.
 - [x] añadir las teclas negras
 - [] permitir que el usuario toque el piano con el teclado del ordenador
 - [] incorporar sonidos reales
-- [] refactorizar
-- [] testear
-- [] deployear
+- [x] refactorizar
+- [x] testear
+- [x] deployear
 
 codigo limpio <-- refactorizacion
 codigo correcto <-- test
