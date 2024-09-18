@@ -11,6 +11,12 @@ npm run build
 
 Instalar una dependencia en particular
 
+npm install xxx
+
+Deployar a github
+
+npm run deploy
+
 
 
 quiero una pagina web que permita tocar el piano.
@@ -18,9 +24,9 @@ Tendra tanto teclas blancas como negras.
 Sonara como un piano de verdad.
 Se podra tocar tambien con el teclado del ordenador.
 
-- [] mostrar una web con las teclas blancas(sin sonido)
-- [] permitir que el usuario pulse en teclas y suena
-- [] añadir las teclas negras
+- [x] mostrar una web con las teclas blancas(sin sonido)
+- [x] permitir que el usuario pulse en teclas y suena
+- [x] añadir las teclas negras
 - [] permitir que el usuario toque el piano con el teclado del ordenador
 - [] incorporar sonidos reales
 - [] refactorizar
